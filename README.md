@@ -1,3 +1,3 @@
 - 👋 Olá, Eu sou o Leandro dos Santos @leo-leosantos
 - 👀 Estou interessado em aprender desenvolvimento Web...
-- 🌱 No momento estou estudo Laravel ..
+- 🌱 No momento estou estudando PHP - HTML - CSS - JAVA e o Framework Laravel ..
