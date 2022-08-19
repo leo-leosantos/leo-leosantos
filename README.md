@@ -23,6 +23,10 @@ email:
 lds.leosantos@gmail.com
 
 
+Linkedin
+https://www.linkedin.com/in/leandro-dos-santos-35644790/
+
+
 Projeto Freelancer:
 
 Projeto Painel Administrativo desenvolvido para gerenciar as atividades de uma Transportadora.
