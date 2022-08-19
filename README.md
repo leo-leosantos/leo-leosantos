@@ -17,7 +17,8 @@ Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 
 GitLab:
-:link: https://gitlab.com/lds.leosantos
+:link:
+https://gitlab.com/lds.leosantos
 
 email: lds.leosantos@gmail.com
 
