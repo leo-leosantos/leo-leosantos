@@ -20,10 +20,10 @@ GitLab:
 :link:
 https://gitlab.com/lds.leosantos
 
-email: lds.leosantos@gmail.com
+email: :link: lds.leosantos@gmail.com
 
 
-Linkedin: https://www.linkedin.com/in/leandro-dos-santos-35644790/
+Linkedin: :link: https://www.linkedin.com/in/leandro-dos-santos-35644790/
 
 
 Projeto Freelancer:
