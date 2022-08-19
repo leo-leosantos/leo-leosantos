@@ -16,7 +16,8 @@ Participante da Primeira turma da Tech Academy - StartSe 2022. Turma 1
 Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 
-GitLab: https://gitlab.com/lds.leosantos
+GitLab:
+:link: https://gitlab.com/lds.leosantos
 
 email: lds.leosantos@gmail.com
 
