@@ -61,9 +61,6 @@ Esse Mesmo Projeto foi refeito usando outras tecnologias.
 
 
 Tecnologias Utilizadas:
-
 Back-End: PHP - Framework Laravel 7.0.
 Front-End: Template AdminLte 3.0 - Admin Dashboard Template.
 Banco de Dados: MYSQL
-
-- 
