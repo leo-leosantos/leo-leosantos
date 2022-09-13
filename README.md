@@ -1,5 +1,12 @@
+
+
+<p>
 - 👋 Olá, Eu sou o Leandro dos Santos @leo-leosantos
+</p>
+<p>
 - 👀 Estou buscando vaga de Desenvolvimento Nível Júnior...
+</p>
+
 <div align="center">
   <a href="https://github.com/leo-leosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-leosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,7 +34,8 @@
 <div>
 
 
-Profissional de TI com  experiência nas áreas de Infraestrutura e Suporte Técnico.
+<h2>Profissional de TI com  experiência nas áreas de Infraestrutura e Suporte Técnico.</h2>
+<hr>
 Tenho Graduação em Sistemas de Informação.
 
 Dev em desenvolvimento: Estudante de Programação Web: 
@@ -45,8 +53,8 @@ Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 
 
-Projeto Freelancer:
-
+<h3>Projeto Freelancer:</h3>
+<hr>
 Projeto Painel Administrativo desenvolvido para gerenciar as atividades de uma Transportadora.
 -Dashboard contendo: Total de Veículos, total de viagens.
 - Cadastros de Funcionários
@@ -54,7 +62,7 @@ Projeto Painel Administrativo desenvolvido para gerenciar as atividades de uma T
 - Cadastros de Viagens.
 - Geração de Relatórios.
 
-Tecnologias Utilizadas:
+<h3>Tecnologias Utilizadas:</h3>
 
 Back-End: PHP - Framework CakePHP 4.0.
 Front-End: Gentelella Alela.
@@ -62,9 +70,9 @@ Banco de Dados: MYSQL
 
 Projeto implementado em 3 Transportadoras diferentes, com algumas alterações específicas para cada transportadora.
 
-Projetos Pessoais:
+<h3>Projetos Pessoais:</h3>
 
-Painel Administrativo desenvolvido para catalogar os livros lidos por um leitor.
+<h3>Painel Administrativo desenvolvido para catalogar os livros lidos por um leitor.</h3>
  - Cadastros dos Livros.
 - Dashboard Contendo: Quantidade de livros lidos, total de Páginas Lidas.
 - Geração de Relatórios.
