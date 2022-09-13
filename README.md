@@ -1,5 +1,30 @@
 - 👋 Olá, Eu sou o Leandro dos Santos @leo-leosantos
 - 👀 Estou buscando vaga de Desenvolvimento Nível Júnior...
+<div align="center">
+  <a href="https://github.com/leo-leosantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-leosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-leosantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Leandro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Leandro-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
+  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+  <img align="center" alt="Leandro-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+
+</div>
+</br>
+<div> 
+
+
+  <a href = "mailto:lds.leosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandro-dos-santos-35644790/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
+
+<div>
 
 
 Profissional de TI com  experiência nas áreas de Infraestrutura e Suporte Técnico.
@@ -16,14 +41,8 @@ Participante da Primeira turma da Tech Academy - StartSe 2022. Turma 1
 Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 
-GitLab:
-:link:
-https://gitlab.com/lds.leosantos
-
-email: :link: lds.leosantos@gmail.com
 
 
-Linkedin: :link: https://www.linkedin.com/in/leandro-dos-santos-35644790/
 
 
 Projeto Freelancer:
@@ -64,3 +83,5 @@ Tecnologias Utilizadas:
 Back-End: PHP - Framework Laravel 7.0.
 Front-End: Template AdminLte 3.0 - Admin Dashboard Template.
 Banco de Dados: MYSQL
+
+</div>
