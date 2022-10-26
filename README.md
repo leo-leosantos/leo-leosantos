@@ -34,7 +34,7 @@
 <div>
 
 
-<h2>Profissional de TI com  experiência nas áreas de Infraestrutura e Suporte Técnico.</h2>
+<h2>Profissional de TI com  experiência nas áreas de Infraestrutura - Suporte Técnico - Analista de Sistemas .</h2>
 <hr>
 Tenho Graduação em Sistemas de Informação.
 
@@ -51,45 +51,25 @@ Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 
 
+Atividades Realizadas nas áreas de Infraestrutura e Suporte Técnico:
+
+• Gerenciamento da rede local e de serviços de Infraestrutura de TI.
+• Executar a manutenção preventiva e corretiva dos equipamentos de informática.
+• Administração de servidores de Impressão e Active Directory.
+• Gerenciamento dos serviços de E-mail.
+• Executar manutenções nas Impressoras (trocar toner, atolamento de papel).
+• Instalação, configuração e manutenção dos Sistemas Operacionais Linux (Debian, Ubuntu)
+• e Windows (7 e 10).
+• Suporte a Videoconferências e WebConferências.
+• Suporte aos usuários
 
 
-<h3>Projeto Freelancer:</h3>
-<hr>
-Projeto Painel Administrativo desenvolvido para gerenciar as atividades de uma Transportadora.
--Dashboard contendo: Total de Veículos, total de viagens.
-- Cadastros de Funcionários
-- Cadastros de Veículos.
-- Cadastros de Viagens.
-- Geração de Relatórios.
+Atividades Realizadas na área de Analista de Sistemas:
 
-<h3>Tecnologias Utilizadas:</h3>
-
-Back-End: PHP - Framework CakePHP 4.0.
-Front-End: Gentelella Alela.
-Banco de Dados: MYSQL
-
-Projeto implementado em 3 Transportadoras diferentes, com algumas alterações específicas para cada transportadora.
-
-<h3>Projetos Pessoais:</h3>
-
-<h3>Painel Administrativo desenvolvido para catalogar os livros lidos por um leitor.</h3>
- - Cadastros dos Livros.
-- Dashboard Contendo: Quantidade de livros lidos, total de Páginas Lidas.
-- Geração de Relatórios.
-- Campo de pesquisa para buscar a quantidade de livros lidos em um determinado período.
-
-Tecnologias Utilizadas:
-
-Back-End: PHP - Framework CakePHP 4.0.
-Front-End: Gentelella Alela.
-Banco de Dados: MYSQL
-
-Esse Mesmo Projeto foi refeito usando outras tecnologias.
+• Realizar a programação e manutenção de sistemas ou aplicativos específicos, com base nas orientações da chefia superior, utilizando-se de linguagem de desenvolvimento adequada e definida pelo Setor, dentro dos padrões de qualidade e de prazos estabelecidos; 
+• Desenvolver as atividades relacionadas à análise de sistemas de informação;
+• Elaborar a documentação do sistema e de apoio a usuários de serviços de informática;
+• Executar atividades correlatas, conforme necessidade do serviço e orientação superior;
+• Prestar suporte aos usuários na área de Sistemas;
 
 
-Tecnologias Utilizadas:
-Back-End: PHP - Framework Laravel 7.0.
-Front-End: Template AdminLte 3.0 - Admin Dashboard Template.
-Banco de Dados: MYSQL
-
-</div>
