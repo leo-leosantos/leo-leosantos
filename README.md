@@ -66,18 +66,18 @@ Atividades Realizadas nas áreas de Infraestrutura e Suporte Técnico:
 
 Atividades Realizadas na área de Analista de Sistemas:
 
--Mapeamento dos sistemas utilizados pela Empresa;
- Participação em reuniões técnicas para elaboração de projetos para novos sistemas a serem desenvolvidos.
-Participação em reuniões técnicas para elaboração e adequação de melhorias nos sistemas utilizados pela Empresa;.
-Desenvolver melhorias nos Sistemas internos da Empresa; utilizando a linguagem de programação PHP puro ou  Laravel.
-Realizar manutenção nos Sistemas internos utilizados pela Empresa; utilizando a linguagem de programação PHP puro ou Laravel.
-Elaboração de manuais técnicos para utilização dos Sistemas Internos;
-Controlar e acompanhar, junto ao Analista de Redes, a performance dos Servidores de Hospedagem dos sistemas;
-Identificação de demanda, planejamento e construção de processos de compra de equipamentos, materiais e serviços de informática;
-Modelagem e manipulação de Banco de Dados.
-Hospedagem dos Sistemas em Servidores - Linux/ Windows.
-Controle de versão (GIT).  
-Utilização de Metodologias Ágeis em todo o processo de desenvolvimento dos sistemas.
-Atendimento e suporte aos usuários na área de Sistemas;
+•	Mapeamento dos sistemas utilizados pela Empresa;
+•	Participação em reuniões técnicas para elaboração de projetos para novos sistemas a serem desenvolvidos.
+•	Participação em reuniões técnicas para elaboração e adequação de melhorias nos sistemas utilizados pela Empresa;.
+•	Desenvolver melhorias nos Sistemas internos da Empresa; utilizando a linguagem de programação PHP puro ou  Laravel.
+•	Realizar manutenção nos Sistemas internos utilizados pela Empresa; utilizando a linguagem de programação PHP puro ou Laravel.
+•	Elaboração de manuais técnicos para utilização dos Sistemas Internos;
+•	Controlar e acompanhar, junto ao Analista de Redes, a performance dos Servidores de Hospedagem dos sistemas;
+•	Identificação de demanda, planejamento e construção de processos de compra de equipamentos, materiais e serviços de informática;
+•	Modelagem e manipulação de Banco de Dados.
+•	Hospedagem dos Sistemas em Servidores - Linux/ Windows.
+•	Controle de versão (GIT).  
+•	Utilização de Metodologias Ágeis em todo o processo de desenvolvimento dos sistemas.
+•	Atendimento e suporte aos usuários na área de Sistemas;
 
 
