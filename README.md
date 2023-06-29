@@ -4,7 +4,7 @@
 - 👋 Olá, Eu sou o Leandro dos Santos @leo-leosantos
 </p>
 <p>
-- 👀 Estou buscando vaga de Desenvolvimento Nível Júnior...
+- Atuo como DEV FULLSTACK PHP
 </p>
 
 <div align="center">
