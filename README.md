@@ -36,11 +36,12 @@ Tenho Graduação em Sistemas de Informação.
 
 Dev em desenvolvimento: Estudante de Programação Web: 
 Front-end:  HTML - CSS - JavaScript  - Bootstrap
-
-
+&nbsp;
 Back-end: PHP - Laravel -CakePHP 
 
-Participante do Hiring Coders #3 2022 - Jornada de Programação proporcionada pela Vtex  e Gama Academy.
+Participante do Hiring Coders #3 2022 - 
+&nbsp;
+Jornada de Programação proporcionada pela Vtex  e Gama Academy.
 
 Participante da Primeira turma da Tech Academy - StartSe 2022. Turma 1 
 Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
