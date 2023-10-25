@@ -36,12 +36,18 @@ Tenho Graduação em Sistemas de Informação.
 
 Dev em desenvolvimento: Estudante de Programação Web: 
 Front-end:  HTML - CSS - JavaScript  - Bootstrap
+
+
 Back-end: PHP - Laravel -CakePHP 
 
-Participante do Hiring Coders #3 2022.  
+Participante do Hiring Coders #3 2022. 
+
+
 Jornada de Programação proporcionada pela Vtex  e Gama Academy.
 
-Participante da Primeira turma da Tech Academy - StartSe 2022. Turma 1
+Participante da Primeira turma da Tech Academy - StartSe 2022. Turma 1 
+
+
 Academia gratuita de formação de desenvolvedores proporcionada Pela StartSe.
 
 Atividades Realizadas nas áreas de Infraestrutura e Suporte Técnico:
@@ -57,7 +63,7 @@ Atividades Realizadas nas áreas de Infraestrutura e Suporte Técnico:
 • Suporte aos usuários
 
 
-Atividades Realizadas na área de Analista de Sistemas:
+Atividades Realizadas na área de Analista de Sistemas | Desenvolvedor Full Stack PHP:
 
 •	Mapeamento dos sistemas utilizados pela Empresa;
 •	Participação em reuniões técnicas para elaboração de projetos para novos sistemas a serem desenvolvidos.
