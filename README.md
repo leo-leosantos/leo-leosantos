@@ -29,7 +29,7 @@
 <div>
 
 
-<h2>Profissional de TI com  experiência nas áreas de Infraestrutura - Suporte Técnico - Analista de Sistemas .</h2>
+<h2>Profissional de TI com  experiência nas áreas de Infraestrutura - Suporte Técnico - Analista de Sistemas - Desenvolvedor Full Stack PHP .</h2>
 <hr>
 Tenho Graduação em Sistemas de Informação.
 
